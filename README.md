@@ -19,7 +19,7 @@ In the `server` directory, you can run:
 
 This will install all the dependencies related to the Node server of the project
 
-### From the root `PV-Web-Developer` directory run `node server`
+### From the root `threads-app` directory run `node server`
 
 This will run the back-end server on http://localhost:5000
 
